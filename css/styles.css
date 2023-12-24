@@ -6,7 +6,7 @@
     box-sizing: border-box;
 
 }
-#navbar{
+/* #navbar{
     background: linear-gradient(125deg,#281538,#4e085f,#4e085f,#3e2a4f);
     color:#fff;
     display:flex;
@@ -43,7 +43,7 @@ span:hover
 {
     color: #ccff00f3;
 }
-
+ */
 .container
 {
     width: 100%;
