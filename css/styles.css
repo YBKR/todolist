@@ -47,7 +47,7 @@ span:hover
 .container
 {
     width: 100%;
-    min-height: 100vh;
+    height: 100vh;
     background: linear-gradient(125deg,#281538,#4e085f,#4e085f,#3e2a4f);
     padding: 10px;
 }
